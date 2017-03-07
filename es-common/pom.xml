@@ -31,11 +31,11 @@
 			<artifactId>es-client</artifactId>
 			<version>${es.client.version}</version>
 		</dependency>
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>classes12</artifactId>
 			<version>10.2.0.4</version>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>

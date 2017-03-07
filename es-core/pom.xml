@@ -77,12 +77,12 @@
 			<version>1.8.5</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
+	<!-- 	<dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>classes12</artifactId>
 			<version>10.2.0.4</version>
 			<scope>test</scope>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>org.quartz-scheduler</groupId>
 			<artifactId>quartz</artifactId>
